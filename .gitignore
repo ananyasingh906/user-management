@@ -8,6 +8,3 @@ frontend/build
 
 # Environment files (if any)
 .env
-
-# Mac system files
-.DS_Store
