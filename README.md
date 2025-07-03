@@ -32,7 +32,7 @@ This project is a Full-Stack User Management Web Application that allows you to:
 
 ## Setup Instructions
 
-Pre-requisites: Node.js, npm, and MySQL(XAAMP Server) installed.
+Pre-requisites: Node.js, npm & MySQL (XAAMP Server) installed.
 
 ---
 
